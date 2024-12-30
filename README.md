@@ -11,8 +11,3 @@
 
 ![Ferdin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdinshaji&show_icons=true&theme=radical)
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="sample.gif">
-    <source media="(prefers-color-scheme: light)" srcset="sample.gif">
-    <img alt="GIFOS" src="sample.gif">
-</picture>
